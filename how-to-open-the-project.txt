@@ -1,0 +1,7 @@
+Instructions using IntelliJ (the community edition can be downloaded for free at https://www.jetbrains.com/idea/download/)
+- extract the zip somewhere
+- start IntelliJ
+- Use the menu “File -> Open” and select the pom.xml file
+- IntelliJ should open the project, ready for you to work on it
+
+Alternatively, feel free to use your favourite IDE. They should have an option to open a maven project.
